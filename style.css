@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+i {
+    font-size: 50px;            /* To make my image stay at the center */
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% -50%);
+}
+h1{
+    font-size: 3em;
+    text-align: center;
+}
